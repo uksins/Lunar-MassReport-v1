@@ -1,0 +1,6 @@
+[System]
+Threads = 40
+Delay = 0
+
+[Client]
+Token = "YOUR ACCOUNT TOKEN NOT BOT TOKEN"
